@@ -534,11 +534,24 @@ Nota: En el caso de considerar una onda completa en cada uno de los casos nos da
 
 a. Dibuje el voltaje v(t) coloque en el eje una escala en milisegundos.
 
+![image](https://user-images.githubusercontent.com/85144847/131682899-87bd2c59-127b-48ce-9dee-bd8737b5f39d.png)
+
 b. Determine los voltajes pico y mínimo.
+
+![image](https://user-images.githubusercontent.com/85144847/131683225-e7da7ef8-c1af-4478-8a6d-622edcdc8083.png)
 
 c. Calcule v cuando t = 10, 20, 70 y 100 ms.
 
+![image](https://user-images.githubusercontent.com/85144847/131683946-8ee8dad7-9944-4e5f-9597-d7b032a6d961.png)
+
+- Para valores:
+
+![image](https://user-images.githubusercontent.com/85144847/131683986-dbe45996-ae23-4eb4-88de-04726c6f991f.png)
+![image](https://user-images.githubusercontent.com/85144847/131684041-4ff2c5b7-4a2e-418e-91e9-7d5b46ad55e1.png)
+
 d. Determine Vprom.
+
+Vprom = 15 v
 
 53.- Utilice cálculo, para encontrar el valor promedio para la figura 15-91.
 
