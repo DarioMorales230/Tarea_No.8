@@ -506,6 +506,11 @@ b. Voltaje v de la figura 15-92 con e = 25 sen wt V
 
 63.- Repita el problema 62, use cálculo para manejar la porción triangular.
 
+![image](https://user-images.githubusercontent.com/85144847/131644719-7ca87d1a-8f23-46ac-b0a6-5e56b42c9bea.png)
+
+- Desarrollo con datos obtenidos en el ejercicio 2:
+
+![image](https://user-images.githubusercontent.com/85144847/131644618-575e2155-db94-48e2-b2c3-0518c6336a8b.png)
 
 3.2. CAPITULO 16
 
