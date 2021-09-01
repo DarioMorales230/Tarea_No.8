@@ -172,13 +172,48 @@ v = 20sen(125.7t)V
 
 33.- Dada i = 47 sen 8260t mA, determine la corriente cuando t = 0 s, 80, 410 y 1200 us
 
+i = 47 sen(826t) mA
+
+La corriente en t = 0 s esta dado por:
+
+i=47sen(8260*0s)mA
+
+i = 0 A
+
+La corriente en t=80\ \mu s esta dado por:
+
+i = 47sen(8260*80us)mA
+
+i = 28.8 mA
+
+La corriente en t = 410 us esta dado por:
+
+i = 47sen(8260*410us)mA
+
+i = 11.4 mA
+
+La corriente en t=1200 us esta dado por:
+
+i = 47sen(8260*1200us)mA
+
+i = -22 mA
+
 35.- Escriba las ecuaciones para las formas de onda de la figura 15-82. Exprese la fase del ángulo en grados.
 
 ![image](https://user-images.githubusercontent.com/85144847/131614615-d4405a47-268a-4a6f-947b-24abf79b2148.png)
+![image](https://user-images.githubusercontent.com/85144847/131619468-38b30014-6cb4-44eb-bc54-4998073b4c3b.png)
 
 ![image](https://user-images.githubusercontent.com/85144847/131614634-112aeac3-6580-4ebc-968f-d72b33c85b36.png)
 
+![image](https://user-images.githubusercontent.com/85144847/131619713-55efe5bb-7b11-4500-9cae-641b4a2ce861.png)
+![image](https://user-images.githubusercontent.com/85144847/131619742-62e98302-27f3-4d5e-8e99-e21813de8c2d.png)
+
 ![image](https://user-images.githubusercontent.com/85144847/131614677-b7bea662-6167-4327-90c9-cce13c7da2b9.png)
+![image](https://user-images.githubusercontent.com/85144847/131619801-1ebf0ff6-a762-4340-9f3b-9e25611b4333.png)
+
+![image](https://user-images.githubusercontent.com/85144847/131619812-9085f0bd-252a-4c9f-a885-eefb989b6705.png)
+![image](https://user-images.githubusercontent.com/85144847/131619835-7c4f96fe-8d9b-4b48-a948-6481a2450d93.png)
+
 
 37.- Dada v = 5 sen(wt+45°). Si w = 20π rad/s, ¿qué valor tiene v cuando t = 20, 75 y 90 ms?
 
