@@ -128,23 +128,47 @@ w = 125663.7 rad/s
 
 a.- T = 100 ns 
 
+![image](https://user-images.githubusercontent.com/85144847/131618001-427866fa-4c8f-4a2e-90d5-d1be47daaed5.png)
+
 b.- f = 30 Hz 
+
+![image](https://user-images.githubusercontent.com/85144847/131618041-8da0684f-5d59-42bb-8f83-d65e47ba0dff.png)
 
 c.- 100 ciclos en 4 s
 
+![image](https://user-images.githubusercontent.com/85144847/131618072-69d5f5f5-c76f-44d2-8b89-dc2e7b373408.png)
+
 d.- periodo = 20 ms
 
+![image](https://user-images.githubusercontent.com/85144847/131618143-debcd9b1-b465-49ed-98e5-51c5e70305ca.png)
+
 e.- 5 periodos en 20 ms
+
+![image](https://user-images.githubusercontent.com/85144847/131618213-ea5bfd78-1b65-413e-960e-d2cc6ae07c99.png)
 
 29.- Determine las ecuaciones para las ondas seno con lo siguiente:
 
 a. Vm = 170 V, f = 60 Hz
 
+![image](https://user-images.githubusercontent.com/85144847/131618319-125ff6da-9b63-4a0b-bb9c-48689eea4207.png)
+
 b. Im = 40 uA, T = 10 ms
+
+![image](https://user-images.githubusercontent.com/85144847/131618349-0f4721d6-95ff-45ac-bd79-9c3ae2b2eee6.png)
 
 c. T = 120 us, v = 10 V en t = 12 us
 
+![image](https://user-images.githubusercontent.com/85144847/131618380-5aa32001-76c7-4baf-84c7-25addcee5b84.png)
+![image](https://user-images.githubusercontent.com/85144847/131618416-6f027412-25d0-4752-9c75-502153d6f542.png)
+
 31. Una onda seno tiene un voltaje pico a pico de 40 V y T = 50 ms. Determine su ecuación.
+
+![image](https://user-images.githubusercontent.com/85144847/131618549-79a0ac88-a101-4ded-b8ce-13e9a0df8166.png)
+![image](https://user-images.githubusercontent.com/85144847/131618569-792768f9-927e-4169-9a08-2e07c5b30572.png)
+
+v = V_m sen\left(wt)
+
+v = 20sen(125.7t)V
 
 33.- Dada i = 47 sen 8260t mA, determine la corriente cuando t = 0 s, 80, 410 y 1200 us
 
