@@ -440,8 +440,29 @@ i = 80sen(wt-160°)
 
 45. Para las formas de onda de la figura 15-87, determine las diferencias de fase. ¿Qué forma de onda está adelantada?
 
+- Enunciado:
+
 ![image](https://user-images.githubusercontent.com/85144847/131615258-67599beb-d8b9-467b-86cf-2015332c95bd.png)
+
+- Desarrollo:
+
+V1 = Asen(wt - 30°)
+
+V2 = Asen(wt - 120°)
+
+En este caso A esta adelantada 90° con respecto a B por el tamaño de sus crestas.
+
+- Enunciado:
+
 ![image](https://user-images.githubusercontent.com/85144847/131615276-56b0a86c-461f-49cf-8dae-a910e7a4c824.png)
+
+- Desarrollo:
+
+V1 = Asen(wt + 60°)
+
+V2 = Asen(wt - 180°)
+
+Aqui podemos observar que A esta retrasada 150° con respecto a B.
 
 15-8 Formas de onda de ca y valor promedio
 
@@ -449,17 +470,63 @@ i = 80sen(wt-160°)
 
 a. i = 5 sen wt 
 
+- Considerando 2 medias ondas: 
+
+iprom = 0.637(5)
+
+iprom = 3.18 A
+
 b. i = 40 cos wt 
+
+- Considerando 2 medias ondas: 
+
+iprom = 0.637(40)
+
+iprom = 25.48 A
 
 c. v = 400 sen(wt + 30°)
 
+- Considerando 2 medias ondas: 
+
+Vprom = 0.637(400)
+
+Vprom = 254.8 v
+
 d. v = 20 cos 2wt
+
+- Considerando 2 medias ondas: 
+
+Vprom = 0.637(20)
+
+Vprom = 12.74 v
+
+Nota: En el caso de considerar una onda completa en cada uno de los casos nos dara un valor de voltaje - intensidad de 0 
 
 49. Calcule Iprom o Vprom para las formas de onda de la figura 15-88.
 
+- Figura a:
+
 ![image](https://user-images.githubusercontent.com/85144847/131615495-d92d79be-3f78-4bfa-abda-94dbe3ae0177.png)
+
+- Desarrollo:
+
+![image](https://user-images.githubusercontent.com/85144847/131681086-ea39e6af-bfd9-43b8-88f8-a598aaca2c3e.png)
+
+- Figura b:
+
 ![image](https://user-images.githubusercontent.com/85144847/131615509-1002350e-a537-4177-9379-d459c83131d4.png)
+
+- Desarrollo:
+
+![image](https://user-images.githubusercontent.com/85144847/131681361-8c3e9cff-9ea8-4602-ad78-232dd2d09555.png)
+
+- Figura c:
+
 ![image](https://user-images.githubusercontent.com/85144847/131615525-3a772d2f-6476-4507-9d43-38e292983dec.png)
+
+![image](https://user-images.githubusercontent.com/85144847/131681411-3176b679-a1b7-412a-aee7-2cbfa032955e.png)
+
+- Desarrollo:
 
 51.- Para el circuito de la figura 15-90, e = 25 sen wt V y un periodo de T = 120 ms.
 
