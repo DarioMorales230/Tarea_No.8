@@ -489,25 +489,199 @@ c. 10 + 24 sen wt V
 
 d. 45 - 27 cos 2 wt V
 
-57. Determine los valores de la raíz cuadrática media para 
+57.- Determine los valores de la raíz cuadrática media para 
 
 a. i = 3 + sqrt(2)(4) sen(wt + 44°) mA
 
 b. Voltaje v de la figura 15-92 con e = 25 sen wt V
 
-59. Calcule los valores rms para las formas de onda de la figura 15-92.
+59.- Calcule los valores rms para las formas de onda de la figura 15-92.
 
 ![image](https://user-images.githubusercontent.com/85144847/131616116-d8bfa355-f825-4b46-8ce0-39785816e2b3.png)
 ![image](https://user-images.githubusercontent.com/85144847/131616134-f30fe4b0-3968-4cfd-8b45-d1e364b22fbd.png)
 
-61. Determine los valores rms para la forma de onda de la figura 15-94. ¿Por qué es igual que el de una batería de 24 V?
+61.- Determine los valores rms para la forma de onda de la figura 15-94. ¿Por qué es igual que el de una batería de 24 V?
 
 ![image](https://user-images.githubusercontent.com/85144847/131616184-8f7bc71d-8a5e-4861-9650-0b55409c9044.png)
 
-63. Repita el problema 62, use cálculo para manejar la porción triangular.
+63.- Repita el problema 62, use cálculo para manejar la porción triangular.
 
 
 3.2. CAPITULO 16
+
+16-1 Repaso de números complejos
+
+1.- Convierta cada uno de los siguientes números a forma polar:
+
+a. 5 + j12 
+
+b. 9 - j6 
+
+c. -8 + j15
+
+d. -10 - j4
+
+3.- Grafique cada uno de los siguientes valores en el plano complejo:
+
+a. 4 + j6
+
+b. j4
+
+c. 6 ∠-90°
+
+d. 10 ∠135°
+
+5.- Exprese sus respuestas en forma rectangular.
+
+a.- (4 + j8) + (3 - j2)
+
+b.- (4 + j8) - (3 - j2)
+
+c.- (4.1 - j7.6) + 12∠20°
+
+d.- 2.9∠25° - 7.3∠-5°
+
+e.- 9.2∠-120° - (2.6 + j4.1)
+
+![image](https://user-images.githubusercontent.com/85144847/131627390-0718d7f9-feeb-4ab4-be66-9f3921ca6c56.png)
+
+7.- Reduzca cada corriente siguiente a forma polar:
+
+![image](https://user-images.githubusercontent.com/85144847/131627700-7cb9c946-f364-40ec-b17a-cb110e1e804c.png)
+
+![image](https://user-images.githubusercontent.com/85144847/131627720-1cfd5df5-d532-4e78-9acd-5e5e5a2cd847.png)
+
+![image](https://user-images.githubusercontent.com/85144847/131627761-caedc32b-29c6-4ee5-b828-6ccab9acc37e.png)
+
+16-2 Números complejos en análisis de ca
+
+9.- Determine el equivalente sinusoidal para cada una de las fuentes transformadas de la figura 16-48.
+
+![image](https://user-images.githubusercontent.com/85144847/131628026-4f029932-03e0-4d6d-9aea-bbfed60f65ee.png)
+
+![image](https://user-images.githubusercontent.com/85144847/131628049-ab4ab450-4418-46fb-be01-d7620b664299.png)
+
+11.- Repita el problema 10 para v = e1 - e2.
+
+Nota: para el resto de los problemas y el resto del libro, los fasores se expresan como valores rms en lugar de valores pico.
+
+13.- Para la figura 16-50, i1 = 25 sen (wt + 36°) mA e i2 = 40 cos (wt - 10°) mA.
+
+![image](https://user-images.githubusercontent.com/85144847/131628478-4a0abcd3-1204-4200-a53e-072c47d06b07.png)
+
+a. Determine los fasores I1, I2 e IT.
+
+b. Determine la ecuación para iT en el dominio del tiempo.
+
+15.- Para la figura 16-18, i1 = 7 sen wt mA, i2 = 4 sen (wt - 90°) mA e i3 = 6 sen (wt + 90°) mA.
+
+![image](https://user-images.githubusercontent.com/85144847/131628747-5fc79b5b-596e-4acc-8ab0-1096914f5cd0.png)
+
+a. Determine los fasores I1, I2, I3 e IT
+
+b. Determine la ecuación para iT en el dominio del tiempo.
+
+16-4 a 16-6
+
+17.- Para la figura 16-52, R = 12 Ω. Para cada uno de los siguientes casos determine la corriente o voltaje y grafíquelo.
+
+![image](https://user-images.githubusercontent.com/85144847/131628887-1fb10272-318b-484e-943c-81151da614ed.png)
+
+a. v = 120 sen wt V, i = _____
+
+
+b. v = 120 sen (wt + 27°) V, i = _____
+
+
+c. i = 17 sen (wt - 56°) mA, v = _____
+
+
+d. i = -17 cos (wt - 67°) uA, v = _____
+
+19.- Dos resistores R1 = 10 kΩ y R2 = 12.5 kΩ están en serie. Si i = 14.7 sen (wt + 39°) mA,
+
+a. ¿Cuánto valen vR1 y vR2?
+
+b. Calcule vT = vR1 + vR2 y compárelo con vT calculada a partir de vT = i RT.
+
+21.- Para la figura 16-53, Vm = 10 V e Im = 5 A. Para cada expresión, determine la cantidad solicitada.
+
+![image](https://user-images.githubusercontent.com/85144847/131629766-2986e6d8-106c-4fca-8d28-c7d37acc96db.png)
+
+a. vL = 10 sen (wt + 60°) V, iL = _____
+
+b. vL = 10 sen (wt - 15°) V, iL = _____
+
+c. iL = 5 cos (wt - 60°) A, vL = _____
+
+d. iL = 5 sen (wt + 10°) A, vL = _____
+
+23.- Para la figura 16-53, e = 100 sen wt y L = 0.5 H. Determine iL a...
+
+![image](https://user-images.githubusercontent.com/85144847/131629766-2986e6d8-106c-4fca-8d28-c7d37acc96db.png)
+
+a. 60 Hz
+
+
+b. 1000 Hz
+
+
+c. 500 rad/s
+
+
+25.- Para la figura 16-53, si
+
+![image](https://user-images.githubusercontent.com/85144847/131629766-2986e6d8-106c-4fca-8d28-c7d37acc96db.png)
+
+a. vL = 40 sen (wt + 30°) V, iL = 364 sen (wt - 60°) mA y L = 2 mH, ¿cuál es el valor de f?
+
+b. iL = 250 sen (wt + 40°) uA, vL = 40 sen (wt + \theta) V, y f = 500 kHz, ¿cuál es el valor de L y \theta?
+
+27.- ¿Cuál es la reactancia de un capacitor de 5 uF a....
+
+a.- 60 Hz
+
+
+b.- 1000 Hz
+
+
+c.- 500 rad/s
+
+29.- Para la figura 16-54, C = 50 uF.
+
+![image](https://user-images.githubusercontent.com/85144847/131630969-d46cf9d9-6854-4c5b-924e-cc460bd49b21.png)
+
+a. vC = 100 sen377t V, ¿cuánto vale iC?
+
+b. iC = 10 sen(2π * 400t - 60°), ¿cuánto vale vC?
+
+16-7 El concepto de impedancia
+
+31.- Determine la impedancia de cada elemento de circuito de la figura 16-55.
+
+![image](https://user-images.githubusercontent.com/85144847/131631090-2e94b220-82fb-4455-b0ce-6619b6da6d7b.png)
+
+![image](https://user-images.githubusercontent.com/85144847/131631120-adcd256a-bd5f-47c6-97ca-8f6983cd803b.png)
+
+![image](https://user-images.githubusercontent.com/85144847/131631146-8709b08c-4d28-4319-b674-b5c193b7f8bd.png)
+
+33.- Si la corriente a través de cada elemento de circuito de la figura 16-56 es 0.5 A∠0°:
+
+a. Determine cada voltaje en forma fasorial.
+
+b. Exprese cada voltaje en forma del dominio del tiempo.
+
+![image](https://user-images.githubusercontent.com/85144847/131631336-0a9fdef9-209f-44e2-bb06-33b41c609e9f.png)
+
+![image](https://user-images.githubusercontent.com/85144847/131631373-a8e9b955-cb43-4666-b2a0-cd2c0dd9ac56.png)
+
+![image](https://user-images.githubusercontent.com/85144847/131631390-64fadc6c-2135-4f3e-a21f-530a633c2d0c.png)
+
+35.- Para cada circuito de la figura 16-57 determine la incógnita.
+
+![image](https://user-images.githubusercontent.com/85144847/131631620-effde904-0d1f-4389-9aff-7e4977383195.png)
+
+![image](https://user-images.githubusercontent.com/85144847/131631643-8cd8957e-5ff7-45db-8dc1-b3ee1d971d65.png)
 
 4. VIDEO DE YOUTUBE
 
@@ -522,7 +696,6 @@ https://youtu.be/p4GUDuTSMpo
 7 AnÃ¡lisis de ciruitos - Robbins.rar. (s. f.). Recuperado 18 de agosto de 2021, de
 
 https://drive.google.com/file/d/1xLy0QqUmSOByE8CDn-6dgCHs8NJL-juA/view?usp=sharing
-
 
 
 
