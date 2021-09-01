@@ -367,7 +367,7 @@ v = V_msen(wt-\theta)
 
 v = 100sen(3491t+36°)V
 
-41. Dada v = 30 sen(wt-45°) donde w = 40π rad/s. Dibuje la forma de onda. ¿En qué momento v llega a 0 V? ¿En qué momento alcanza 23 V y -23 V?
+41.- Dada v = 30 sen(wt-45°) donde w = 40π rad/s. Dibuje la forma de onda. ¿En qué momento v llega a 0 V? ¿En qué momento alcanza 23 V y -23 V?
 
 ![image](https://user-images.githubusercontent.com/85144847/131621020-6e99a23f-9d48-4275-9df2-644a18483b98.png)
 
@@ -403,7 +403,7 @@ Dibujando la forma de onda:
 
 15-7 Introducción a los fasores
 
-43. Con la ayuda de fasores, dibuje las formas de onda para cada uno de los siguientes pares y determine la diferencia de fase y qué forma de onda está adelantada.
+43.- Con la ayuda de fasores, dibuje las formas de onda para cada uno de los siguientes pares y determine la diferencia de fase y qué forma de onda está adelantada.
 
 a)
 
@@ -438,7 +438,7 @@ i = 80sen(wt-160°)
 ![image](https://user-images.githubusercontent.com/85144847/131622238-6178474b-e821-4ed0-a574-cd4a5d2265eb.png)
 
 
-45. Para las formas de onda de la figura 15-87, determine las diferencias de fase. ¿Qué forma de onda está adelantada?
+45.- Para las formas de onda de la figura 15-87, determine las diferencias de fase. ¿Qué forma de onda está adelantada?
 
 - Enunciado:
 
@@ -466,7 +466,7 @@ Aqui podemos observar que A esta retrasada 150° con respecto a B.
 
 15-8 Formas de onda de ca y valor promedio
 
-47. ¿Cuál es el valor promedio para cada uno de los siguientes casos para un número entero de ciclos?
+47.- ¿Cuál es el valor promedio para cada uno de los siguientes casos para un número entero de ciclos?
 
 a. i = 5 sen wt 
 
@@ -502,7 +502,7 @@ Vprom = 12.74 v
 
 Nota: En el caso de considerar una onda completa en cada uno de los casos nos dara un valor de voltaje - intensidad de 0 
 
-49. Calcule Iprom o Vprom para las formas de onda de la figura 15-88.
+49.- Calcule Iprom o Vprom para las formas de onda de la figura 15-88.
 
 - Figura a:
 
