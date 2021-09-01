@@ -214,20 +214,129 @@ i = -22 mA
 ![image](https://user-images.githubusercontent.com/85144847/131619812-9085f0bd-252a-4c9f-a885-eefb989b6705.png)
 ![image](https://user-images.githubusercontent.com/85144847/131619835-7c4f96fe-8d9b-4b48-a948-6481a2450d93.png)
 
-
 37.- Dada v = 5 sen(wt+45°). Si w = 20π rad/s, ¿qué valor tiene v cuando t = 20, 75 y 90 ms?
+
+![image](https://user-images.githubusercontent.com/85144847/131620203-34baa356-7b20-4a11-909d-35ed163d5956.png)
+
+El valor de v en t = 20ms este dado por:
+
+v = 5 sen(3600º/s×20 + 45º)
+
+v = 5 sen(72º+ 45º)
+
+v = 5 sen(117º)
+
+v = 4.46 v
+
+El valor de v en t = 75ms esta dado por:
+
+v = 5 sen (3600º/s×75 + 45º)
+
+v = 5 sen (270º+ 45º)
+
+v = 5 sen (315º)
+
+v = -3.54V
+
+El valor de v en t=90ms esta dado por:
+
+v = 5 sen (3600º/s×90 + 45º)
+
+v = 5 sen (324º+ 45º)
+
+v = 5 sen (369º)
+
+v = 0.782V
 
 39.- Determine la ecuación para la forma de onda que se muestra en la figura 15-84.
 
 ![image](https://user-images.githubusercontent.com/85144847/131614965-9e0875e9-b2ea-401b-bbca-c5da8973f420.png)
 
+V_m = 100V
+
+\theta = 90°-54°
+
+\theta = 36°
+
+Tomando en cuenta el tiempo que toma completar la rotación de 360° es dado por:
+
+![image](https://user-images.githubusercontent.com/85144847/131620799-e8bd6b18-5620-4329-ab2b-1564d399fcaa.png)
+![image](https://user-images.githubusercontent.com/85144847/131620815-ccc7c35a-af55-47fd-a099-ce8d9566fd9e.png)
+
+v = V_msen(wt-\theta)
+
+v = 100sen(3491t+36°)V
+
 41. Dada v = 30 sen(wt-45°) donde w = 40π rad/s. Dibuje la forma de onda. ¿En qué momento v llega a 0 V? ¿En qué momento alcanza 23 V y -23 V?
+
+![image](https://user-images.githubusercontent.com/85144847/131621020-6e99a23f-9d48-4275-9df2-644a18483b98.png)
+
+- Siendo t = 0 s:
+
+v = 30sen(0-45°)
+
+v = -21.213 V
+
+w = 40π rad/s
+
+w = 7200°/s
+
+t = 6.25ms
+
+- Siendo t = 6.25ms :
+- 
+v = 30sen(-45°+45°)
+
+v = 0 V
+
+Dibujando la forma de onda:
+
+![image](https://user-images.githubusercontent.com/85144847/131621372-db18cfdc-8ccf-4967-8199-e14f237d80c0.png)
+
+- Siendo v = 23V:
+
+![image](https://user-images.githubusercontent.com/85144847/131621458-97bd8383-8cbb-433f-8f46-2a58971cd3fb.png)
+
+- Siendo v = -23V:
+
+![image](https://user-images.githubusercontent.com/85144847/131621559-d56f69dd-1c97-4b9b-b4d3-a08bce0e4849.png)
 
 15-7 Introducción a los fasores
 
 43. Con la ayuda de fasores, dibuje las formas de onda para cada uno de los siguientes pares y determine la diferencia de fase y qué forma de onda está adelantada.
 
-![image](https://user-images.githubusercontent.com/85144847/131615213-92dcc246-210b-4685-8245-5403c176e4af.png)
+a)
+
+v = 100sen(wt)
+
+i = 80sen(wt+20°)
+
+![image](https://user-images.githubusercontent.com/85144847/131621738-a6dffb09-6fa9-4d3e-b4eb-8b1bfad07b65.png)
+
+b)
+
+V1 = 200sen(wt-30°)
+
+V2 = 150sen(wt-30°)
+
+![image](https://user-images.githubusercontent.com/85144847/131621932-a165a61d-fb0d-4167-a68f-3123ffdb7edf.png)
+
+c)
+
+i1 = 40sen(wt+30°)
+
+i2 = 50sen(wt-20°)
+
+![image](https://user-images.githubusercontent.com/85144847/131622076-e2a70deb-4bbf-4bf2-b77c-a3a92306bc65.png)
+
+d)
+
+v = 100sen(wt-140°)
+
+i = 80sen(wt-160°)
+
+![image](https://user-images.githubusercontent.com/85144847/131622238-6178474b-e821-4ed0-a574-cd4a5d2265eb.png)
+
 
 45. Para las formas de onda de la figura 15-87, determine las diferencias de fase. ¿Qué forma de onda está adelantada?
 
@@ -297,9 +406,6 @@ b. Voltaje v de la figura 15-92 con e = 25 sen wt V
 
 63. Repita el problema 62, use cálculo para manejar la porción triangular.
 
-15-11 Medición de voltaje y corriente de ca
-
-65. Repita el problema 64 con un medidor de rms verdadero.
 
 3.2. CAPITULO 16
 
