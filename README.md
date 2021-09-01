@@ -767,7 +767,19 @@ b. Exprese cada voltaje en forma del dominio del tiempo.
 
 ![image](https://user-images.githubusercontent.com/85144847/131631620-effde904-0d1f-4389-9aff-7e4977383195.png)
 
+- Desarrollo:
+
+![image](https://user-images.githubusercontent.com/85144847/131640290-7c2bfec6-ac02-4cbf-964b-80ff693c13a4.png)
+![image](https://user-images.githubusercontent.com/85144847/131640316-ac902d4d-d1c6-45b9-a228-ad7184db72e9.png)
+
+
 ![image](https://user-images.githubusercontent.com/85144847/131631643-8cd8957e-5ff7-45db-8dc1-b3ee1d971d65.png)
+
+- Desarrollo:
+
+![image](https://user-images.githubusercontent.com/85144847/131641070-0dcb883f-0856-4649-bceb-cb247be1ab81.png)
+![image](https://user-images.githubusercontent.com/85144847/131641096-b271c41c-fbb9-4c24-8e66-e03f4bc3fe47.png)
+![image](https://user-images.githubusercontent.com/85144847/131641118-143f940d-d401-4dc8-84f9-322d9a9fe558.png)
 
 4. VIDEO DE YOUTUBE
 
