@@ -80,7 +80,47 @@ f) 620°
 
 ![image](https://user-images.githubusercontent.com/85144847/131613936-dafa672d-2b11-4967-a4ac-965f51179698.png)
 
+- Desarrollo:
+
+![image](https://user-images.githubusercontent.com/85144847/131616959-8926dab1-44c9-4a89-9342-5cbdc6198062.png)
+
+- 𝑃𝑎𝑟𝑎 𝑡 = 30 𝑚𝑠
+
+![image](https://user-images.githubusercontent.com/85144847/131617197-833b9631-a088-4bba-9b29-34e1b1854bb3.png)
+
+- 𝑃𝑎𝑟𝑎 𝑡 = 75 𝑚𝑠
+
+![image](https://user-images.githubusercontent.com/85144847/131617216-0c360a2d-d3e2-4fbb-abca-74f2f0b9f56f.png)
+
+- 𝑃𝑎𝑟𝑎 𝑡 = 140 𝑚𝑠
+
+![image](https://user-images.githubusercontent.com/85144847/131617253-36eb0ac0-263e-4088-9cd3-415c4e3a75ca.png)
+
+- Para t = 315 ms
+
+![image](https://user-images.githubusercontent.com/85144847/131617296-d1a8094b-fdd5-44ef-a732-006c61d02e04.png)
+
 25.- Una onda seno de 20 kHz tiene un valor de 50 volts cuando t = 5 us. Determine Vm y dibuje la forma de onda.
+
+w = 2πf
+
+w = 2π*20kHz
+
+w = 125663.7 rad/s
+
+![image](https://user-images.githubusercontent.com/85144847/131617567-f1e58e96-e69c-4242-a747-9b8135d0f228.png)
+
+- Para t = 5 us
+
+![image](https://user-images.githubusercontent.com/85144847/131617752-d2295bef-c2c2-4ce4-9620-0641f472e989.png)
+![image](https://user-images.githubusercontent.com/85144847/131617775-d78ec49d-d548-4a3e-b766-95633893507b.png)
+
+![image](https://user-images.githubusercontent.com/85144847/131617792-fdd92eb9-5d64-473b-a93c-abcc72303b28.png)
+![image](https://user-images.githubusercontent.com/85144847/131617829-9abac1d7-7df2-4848-9d55-92431ea9a271.png)
+
+- Gráfica Forma de Onda excepto T=50 μs. 
+
+![image](https://user-images.githubusercontent.com/85144847/131617871-d3b8cbfb-ec46-4395-adba-d2e7b614f3ab.png)
 
 15-6 Voltajes y corrientes como funciones del tiempo
 
