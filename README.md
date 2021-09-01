@@ -21,13 +21,24 @@
 
 1.- ¿A que se refiere “voltaje de ca” y “corriente de ca”?
 
+El voltaje de ca es aquel cuya polaridad varía periódicamente entre positiva y negativa. La corriente de ca es aquella cuya dirección varía periódicamente.
+
+![image](https://user-images.githubusercontent.com/85144847/131622927-e957cb1e-7fde-4945-8bd5-79f7ffded28e.png)
+![image](https://user-images.githubusercontent.com/85144847/131622942-5f00f5fb-98e4-4628-b976-e6ee7a7af188.png)
+
 15-2 Generación de voltajes de ca
 
 3.- a. ¿Qué significa valor instantáneo?
 
+La magnitud de una forma de onda (tal como voltaje o corriente) en cualquier instante.
+
+![image](https://user-images.githubusercontent.com/85144847/131623012-0d320e65-3618-4350-90ab-ea563571a415.png)
+
 b. Para la figura 15-74, determine los voltajes instantáneos en t = 0, 1, 2, 3, 4, 5, 6, 7 y 8 ms.
 
 ![image](https://user-images.githubusercontent.com/85144847/131612721-46574712-78b3-4e11-ac80-20ddf93b3e88.png)
+
+Rpta por grafica: 0V, 10V, 20V, 20V, 20V, 0V, -20V, -20V, 0V
 
 15-3 Convenciones de voltaje y corriente para ca
 
@@ -36,45 +47,132 @@ b. Para la figura 15-74, determine los voltajes instantáneos en t = 0, 1, 2, 3,
 ![image](https://user-images.githubusercontent.com/85144847/131612882-6617f4d3-a8f8-4c8b-a6a6-2bc6ae4db521.png)
 ![image](https://user-images.githubusercontent.com/85144847/131612721-46574712-78b3-4e11-ac80-20ddf93b3e88.png)
 
+- Desarrollo:
+
+- Para t = 0 ms:
+
+![image](https://user-images.githubusercontent.com/85144847/131623427-3aac043b-8415-4462-a3b3-0d108bc24b5d.png)
+
+- Para t = 1 ms:
+
+![image](https://user-images.githubusercontent.com/85144847/131623448-3644ae90-0660-4a1f-afd8-4a53dc450a54.png)
+
+- Para t = 2 ms:
+
+![image](https://user-images.githubusercontent.com/85144847/131623513-1be0396b-1d96-498c-a049-57312fbcddf8.png)
+
+- Para t = 3 ms:
+
+![image](https://user-images.githubusercontent.com/85144847/131623540-dd21dfd4-1979-4c78-97c2-744a2c7df13b.png)
+
+- Para t = 4 ms:
+
+![image](https://user-images.githubusercontent.com/85144847/131623561-dec8145d-ec67-470a-8153-81e77fc60168.png)
+
+- Para t = 5 ms:
+
+![image](https://user-images.githubusercontent.com/85144847/131623587-aa775a5b-c8b6-4643-adf6-e0335e580047.png)
+
+- Para t = 6 ms:
+
+![image](https://user-images.githubusercontent.com/85144847/131623621-9c81f456-57be-4556-9608-ded7c093c21d.png)
+
+- Para t = 7 ms:
+
+![image](https://user-images.githubusercontent.com/85144847/131623648-033a3ab1-6747-411f-8933-7d91a652da5f.png)
+
+- Para t = 8 ms:
+
+![image](https://user-images.githubusercontent.com/85144847/131623675-a9d056cc-3c12-41f9-957b-c6f7c8ce4fc7.png)
+
 15-4 Frecuencia, periodo, amplitud y valor pico
 
 7.- Para cada uno de los siguientes, determine la frecuencia:
 
 a. T = 0.5 s
+
+![image](https://user-images.githubusercontent.com/85144847/131623816-a2ef8eb4-ed9e-482b-ba9c-3a2168c517df.png)
+
 b. T = 100 s
+
+![image](https://user-images.githubusercontent.com/85144847/131623845-fbe972f0-29c5-4ef4-b70d-a96e3fe25c47.png)
+
 c. 5T = 80 us
+
+![image](https://user-images.githubusercontent.com/85144847/131623865-31a7455b-0bc8-4dd1-a72a-54606bbdf244.png)
 
 9.- Determine el periodo y la frecuencia de la forma de onda de la figura 15-77.
 
 ![image](https://user-images.githubusercontent.com/85144847/131613095-c5e535be-34a7-43e2-bfa7-8ec9d1bcc03a.png)
 
+- Desarrollo:
+
+![image](https://user-images.githubusercontent.com/85144847/131623979-23c7504d-36d9-43a4-b5b2-08053734380d.png)
+
 11.- ¿Cuál es el voltaje pico a pico para la figura 15-77? ¿Cuál es la corriente pico a pico de la figura 15-78?
 
 ![image](https://user-images.githubusercontent.com/85144847/131613169-e59605bf-eaf0-4de9-8d7e-3a543698110d.png)
 
+- Para la figura 15-77:
+
+V.p = 9 V – (-6 V)
+
+V.p = 15V
+
+- Para la figura 15-78:
+
+I.p = 3mA –(-3mA)
+
+I.p = 6mA
+
 13.- ¿A través de cuántos ciclos pasa en 2 minutos y 57 segundos una onda cuadrada con una frecuencia de 847 Hz?
 
+![image](https://user-images.githubusercontent.com/85144847/131624351-476821d7-1886-478a-b269-8e6afdd170a8.png)
+
 15.- Dos formas de onda tienen periodos de T1 y T2 respectivamente. Si T1 = 0.25T2 y f1 = 10 kHz, ¿cuáles son los valores de T1, T2 y f2?
+
+![image](https://user-images.githubusercontent.com/85144847/131624504-c56292fb-a01d-4e65-af44-50b86bf534da.png)
+![image](https://user-images.githubusercontent.com/85144847/131624531-6c6f1e14-454d-41ee-8d95-927eee1dea42.png)
 
 15-5 Relaciones angular y gráfica paras las ondas seno
 
 17.- Dado el voltaje v = Vm sen a. Si Vm = 240 V, ¿qué valor tiene v cuando a = 37°?
 
+v = 240sin(37°)
+
+v = 240*0.601815
+
+v = 144.4 V
+
 19.- Un voltaje sinusoidal tiene un valor de 50 V cuando a = 150°. ¿Qué valor tiene Vm?
+
+![image](https://user-images.githubusercontent.com/85144847/131624764-ddadd2d9-1bd6-46a2-8139-217fc9b8bfec.png)
 
 21.- Convierta los siguientes ángulos de grados a radianes:
 
 a) 10° 
 
+![image](https://user-images.githubusercontent.com/85144847/131624948-04297c51-c19e-4d41-a92c-71b86fcabd6b.png)
+
 b) 25° 
+
+![image](https://user-images.githubusercontent.com/85144847/131624971-8f747fc4-c3ef-4884-9801-4b867715b4cf.png)
 
 c) 80° 
 
+![image](https://user-images.githubusercontent.com/85144847/131625010-36caf6c1-7e2d-4748-8244-77d6d7a820d2.png)
+
 d) 150°
+
+![image](https://user-images.githubusercontent.com/85144847/131625050-1fe2e5c1-dbe0-426c-94f0-3af26b52dff6.png)
 
 e) 350°
 
+![image](https://user-images.githubusercontent.com/85144847/131625090-a46bfe80-07b8-4af9-844a-584be0834767.png)
+
 f) 620°
+
+![image](https://user-images.githubusercontent.com/85144847/131625138-70478b8a-ad42-4229-89bc-cc13e65d1ec7.png)
 
 23.- Si el periodo de la forma de onda en la figura 15-80 es 180 ms, calcule la corriente en t = 30, 75, 140 y 315 ms.
 
