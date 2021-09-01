@@ -759,9 +759,21 @@ b. Exprese cada voltaje en forma del dominio del tiempo.
 
 ![image](https://user-images.githubusercontent.com/85144847/131631336-0a9fdef9-209f-44e2-bb06-33b41c609e9f.png)
 
+- Desarrollo:
+
+![image](https://user-images.githubusercontent.com/85144847/131642352-b1fedfee-e528-41b6-8c6c-1166075f7abe.png)
+
 ![image](https://user-images.githubusercontent.com/85144847/131631373-a8e9b955-cb43-4666-b2a0-cd2c0dd9ac56.png)
 
+- Desarrollo:
+
+![image](https://user-images.githubusercontent.com/85144847/131642569-579ad73b-334e-4060-9634-1e3ef614aaeb.png)
+
 ![image](https://user-images.githubusercontent.com/85144847/131631390-64fadc6c-2135-4f3e-a21f-530a633c2d0c.png)
+
+- Desarrollo:
+
+![image](https://user-images.githubusercontent.com/85144847/131642590-9f91d804-5735-48e1-b82d-808fddf69f5b.png)
 
 35.- Para cada circuito de la figura 16-57 determine la incógnita.
 
