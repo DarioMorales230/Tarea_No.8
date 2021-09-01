@@ -745,11 +745,29 @@ b. iC = 10 sen(2π * 400t - 60°), ¿cuánto vale vC?
 
 31.- Determine la impedancia de cada elemento de circuito de la figura 16-55.
 
+- Circuito:
+
 ![image](https://user-images.githubusercontent.com/85144847/131631090-2e94b220-82fb-4455-b0ce-6619b6da6d7b.png)
+
+- Desarrollo:
+
+Zr = R = 48 Ω
+
+- Circuito:
 
 ![image](https://user-images.githubusercontent.com/85144847/131631120-adcd256a-bd5f-47c6-97ca-8f6983cd803b.png)
 
+- Desarrollo:
+
+![image](https://user-images.githubusercontent.com/85144847/131644024-bb60ca2c-c82c-4c9e-b644-305de7cebdde.png)
+
+- Circuito:
+
 ![image](https://user-images.githubusercontent.com/85144847/131631146-8709b08c-4d28-4319-b674-b5c193b7f8bd.png)
+
+- Desarrollo:
+
+![image](https://user-images.githubusercontent.com/85144847/131643986-eb945e87-25ba-4e74-a43f-00f37ce1dbee.png)
 
 33.- Si la corriente a través de cada elemento de circuito de la figura 16-56 es 0.5 A∠0°:
 
@@ -757,17 +775,23 @@ a. Determine cada voltaje en forma fasorial.
 
 b. Exprese cada voltaje en forma del dominio del tiempo.
 
+- Circuito:
+
 ![image](https://user-images.githubusercontent.com/85144847/131631336-0a9fdef9-209f-44e2-bb06-33b41c609e9f.png)
 
 - Desarrollo:
 
 ![image](https://user-images.githubusercontent.com/85144847/131642352-b1fedfee-e528-41b6-8c6c-1166075f7abe.png)
 
+- Circuito:
+
 ![image](https://user-images.githubusercontent.com/85144847/131631373-a8e9b955-cb43-4666-b2a0-cd2c0dd9ac56.png)
 
 - Desarrollo:
 
 ![image](https://user-images.githubusercontent.com/85144847/131642569-579ad73b-334e-4060-9634-1e3ef614aaeb.png)
+
+- Circuito:
 
 ![image](https://user-images.githubusercontent.com/85144847/131631390-64fadc6c-2135-4f3e-a21f-530a633c2d0c.png)
 
