@@ -601,12 +601,33 @@ b. Voltaje v de la figura 15-92 con e = 25 sen wt V
 
 59.- Calcule los valores rms para las formas de onda de la figura 15-92.
 
+- Enunciado:
+
 ![image](https://user-images.githubusercontent.com/85144847/131616116-d8bfa355-f825-4b46-8ce0-39785816e2b3.png)
+
+- Desarrollo:
+
+![image](https://user-images.githubusercontent.com/85144847/131687406-150a88d4-3e5c-4f0d-84dc-b05fceb9d496.png)
+
+![image](https://user-images.githubusercontent.com/85144847/131687771-f4a89846-e4fc-493e-a92a-308e785c54a8.png)
+
+- Enunciado:
+
 ![image](https://user-images.githubusercontent.com/85144847/131616134-f30fe4b0-3968-4cfd-8b45-d1e364b22fbd.png)
+
+- Desarrollo:
+
+![image](https://user-images.githubusercontent.com/85144847/131687878-efc4527c-e97a-4b82-aeb9-b0c07ed2e8f6.png)
 
 61.- Determine los valores rms para la forma de onda de la figura 15-94. ¿Por qué es igual que el de una batería de 24 V?
 
 ![image](https://user-images.githubusercontent.com/85144847/131616184-8f7bc71d-8a5e-4861-9650-0b55409c9044.png)
+
+- Desarrollo:
+
+![image](https://user-images.githubusercontent.com/85144847/131688194-fad1fd5e-215e-48fc-8f00-fd5a4a400f80.png)
+
+Su magnitud es de 24 v por tanto produce una potencia para el resistor de la bateria.
 
 63.- Repita el problema 62, use cálculo para manejar la porción triangular.
 
