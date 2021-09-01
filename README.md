@@ -5,7 +5,15 @@
 
 1.1. Objetivo General:
 
+Analizar, establecer y desarrollar los ejercicios presentados con su respectiva teoria relacionada acerca de la corriente alterna en circuitos y sus derivados como es la onda senosoidal o sus fasores.
+
 1.2. Objetivos Especificos:
+
+- Identificar y explicar cuando tenemos un circuito en corriente continua y en corriente alterna con su respectiva resolucion.
+
+- Mostrar graficamente como se desarrolla la onda senosoidal en un circuito en "CA" tanto su voltaje como su corriente.
+
+- Conceptuar nuevos elementos como C, L y R para el calculo de impedancias donde esta compuesta por una parte real e imaginaria.
 
 2. MARCO TEORICO
 
@@ -1124,7 +1132,11 @@ https://youtu.be/p4GUDuTSMpo
 
 5. CONCLUSIONES
 
+- Se logro identificar como actua en circuito en "CA" y "CD" y con ello logramos entender como se resuelve un circuito en ambas formas.
 
+- Se pudo apreciar graficamente como se comporta un circuito en "CA" esto gracias a programas que nos ayudaron con nuestros calculos y logramos verque cuando es una fuente alterna su onda sera senosoidal.
+
+- Al final se pudo entender de la mejor manera los nuevos elementos como C, L y R para la resolucion de las impedancias y proximamente en circuitos mas fuertes.
 
 6. BIBLIOGRAFIA
 
