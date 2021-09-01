@@ -166,7 +166,7 @@ c. T = 120 us, v = 10 V en t = 12 us
 ![image](https://user-images.githubusercontent.com/85144847/131618549-79a0ac88-a101-4ded-b8ce-13e9a0df8166.png)
 ![image](https://user-images.githubusercontent.com/85144847/131618569-792768f9-927e-4169-9a08-2e07c5b30572.png)
 
-v = V_m sen\left(wt)
+v = V_m sen(wt)
 
 v = 20sen(125.7t)V
 
