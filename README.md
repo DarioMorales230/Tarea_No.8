@@ -11,6 +11,8 @@
 
 2.1. Resumen Capítulo 15:
 
+![WhatsApp Image 2021-08-25 at 19 53 46](https://user-images.githubusercontent.com/85144847/131625470-007a40fb-5def-4cdc-adb6-9b68f5b6ba67.jpeg)
+
 2.2. Resumen Capítulo 16:
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE LOS SIGUIENTES EJERCICIOS
