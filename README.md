@@ -577,9 +577,26 @@ b. Determine la ecuación para iT en el dominio del tiempo.
 
 ![image](https://user-images.githubusercontent.com/85144847/131628747-5fc79b5b-596e-4acc-8ab0-1096914f5cd0.png)
 
+i_1 = 7senwt mA
+
+i_2 = 4sen(ωt-90°) mA
+
+i_3 = 6sen(wt mA + 90°) mA
+
 a. Determine los fasores I1, I2, I3 e IT
 
+![image](https://user-images.githubusercontent.com/85144847/131633333-beef7038-97cc-40b7-9666-6a873b90c1fd.png)
+![image](https://user-images.githubusercontent.com/85144847/131633356-975de669-1f09-4603-9893-7bd05bfd2ef5.png)
+![image](https://user-images.githubusercontent.com/85144847/131633402-9f6ee1e1-99c6-4f11-bba1-bae8795cb9d0.png)
+
 b. Determine la ecuación para iT en el dominio del tiempo.
+
+![image](https://user-images.githubusercontent.com/85144847/131633458-15343cda-8e5f-4bc3-877c-cb059a3d2c72.png)
+![image](https://user-images.githubusercontent.com/85144847/131633489-e897d3ec-94ef-49f9-82d6-944283d73700.png)
+![image](https://user-images.githubusercontent.com/85144847/131633511-6b6732c5-b4ac-4939-a496-9077b725b644.png)
+![image](https://user-images.githubusercontent.com/85144847/131633686-12b34ea1-0d5e-4d6a-b268-581d8e52cda1.png)
+![image](https://user-images.githubusercontent.com/85144847/131633712-306c2022-0559-4a96-a70c-86bab097ed4f.png)
+![image](https://user-images.githubusercontent.com/85144847/131633730-5d6d4681-7eaf-46ed-9b90-cc2b2036e184.png)
 
 16-4 a 16-6
 
@@ -589,32 +606,62 @@ b. Determine la ecuación para iT en el dominio del tiempo.
 
 a. v = 120 sen wt V, i = _____
 
+![image](https://user-images.githubusercontent.com/85144847/131634886-7ff9efba-523e-4377-bf8c-6241ee11bc14.png)
+![image](https://user-images.githubusercontent.com/85144847/131634914-d9a0d9f9-2961-4582-b8be-4f52409b59ec.png)
 
 b. v = 120 sen (wt + 27°) V, i = _____
 
+![image](https://user-images.githubusercontent.com/85144847/131634970-c6eeb7f3-dc1b-42d3-afab-b08b0e688403.png)
+![image](https://user-images.githubusercontent.com/85144847/131635039-1a1ffeb4-4b60-4403-9044-2fb5c8087638.png)
 
 c. i = 17 sen (wt - 56°) mA, v = _____
 
+![image](https://user-images.githubusercontent.com/85144847/131635095-89c1fe64-1452-450d-96ea-049dc97c9a5f.png)
+![image](https://user-images.githubusercontent.com/85144847/131635117-af20fcf6-9909-45b6-bdb2-dc5fd07c003f.png)
 
 d. i = -17 cos (wt - 67°) uA, v = _____
 
+![image](https://user-images.githubusercontent.com/85144847/131635219-86bf63a7-0158-493b-bfd9-e82b9e11922a.png)
+![image](https://user-images.githubusercontent.com/85144847/131635195-13c9251a-83fb-4167-9b13-edc4b716ab6f.png)
+
 19.- Dos resistores R1 = 10 kΩ y R2 = 12.5 kΩ están en serie. Si i = 14.7 sen (wt + 39°) mA,
+
+![image](https://user-images.githubusercontent.com/85144847/131635292-3c25c8b2-f332-4ccd-961f-c1fbd82656d9.png)
 
 a. ¿Cuánto valen vR1 y vR2?
 
+![image](https://user-images.githubusercontent.com/85144847/131635517-ff93dbbe-6251-4fea-9529-4d8b2ff46e69.png)
+![image](https://user-images.githubusercontent.com/85144847/131635553-3edc397e-51ed-456c-9544-7b95179b6d05.png)
+
 b. Calcule vT = vR1 + vR2 y compárelo con vT calculada a partir de vT = i RT.
+
+- Redibujando el circuito:
+
+![image](https://user-images.githubusercontent.com/85144847/131635613-30cdbc86-dbdf-4298-a363-76c8e5b2a30c.png)
+![image](https://user-images.githubusercontent.com/85144847/131635682-40b4d112-2e6f-4c55-a19d-7afaf4125e14.png)
+![image](https://user-images.githubusercontent.com/85144847/131635739-f846ab80-97c1-4f07-a44e-9b491e26161c.png)
 
 21.- Para la figura 16-53, Vm = 10 V e Im = 5 A. Para cada expresión, determine la cantidad solicitada.
 
 ![image](https://user-images.githubusercontent.com/85144847/131629766-2986e6d8-106c-4fca-8d28-c7d37acc96db.png)
+![image](https://user-images.githubusercontent.com/85144847/131635938-1552c89a-fed5-46a6-a7fd-2285bef22075.png)
 
 a. vL = 10 sen (wt + 60°) V, iL = _____
 
+![image](https://user-images.githubusercontent.com/85144847/131635998-8c9e52e9-7e54-4530-a3e0-1009547081dd.png)
+
 b. vL = 10 sen (wt - 15°) V, iL = _____
+
+![image](https://user-images.githubusercontent.com/85144847/131636087-ab98e3e6-7371-4ab7-a7cb-27131b4d6294.png)
 
 c. iL = 5 cos (wt - 60°) A, vL = _____
 
+![image](https://user-images.githubusercontent.com/85144847/131636130-1e5a76c4-2e3f-48a6-a48f-35b3a9f751c8.png)
+![image](https://user-images.githubusercontent.com/85144847/131636163-82493703-fe2e-41d1-b9c5-8ac88ff1c6e1.png)
+
 d. iL = 5 sen (wt + 10°) A, vL = _____
+
+![image](https://user-images.githubusercontent.com/85144847/131636194-9f88ba94-c527-486c-8c41-a9718a7c10c8.png)
 
 23.- Para la figura 16-53, e = 100 sen wt y L = 0.5 H. Determine iL a...
 
@@ -622,12 +669,30 @@ d. iL = 5 sen (wt + 10°) A, vL = _____
 
 a. 60 Hz
 
+X_L = 2\pi*60Hz*0.5H\ 
+
+X_L = 188.496 ohm
+
+![image](https://user-images.githubusercontent.com/85144847/131636544-65bd6d78-9db0-4eb3-9601-b5407d461b65.png)
+![image](https://user-images.githubusercontent.com/85144847/131636582-92af34e6-2355-4bc9-b959-a911831c2a95.png)
 
 b. 1000 Hz
 
+X_L = 2\pi*100Hz*0.5H\ 
+
+X_L = 3141.593 ohm
+
+![image](https://user-images.githubusercontent.com/85144847/131636823-c909676b-3a74-48cc-99cf-c7d7532a997f.png)
+![image](https://user-images.githubusercontent.com/85144847/131636874-e461d323-6900-48c3-a868-b8e9102d14a5.png)
 
 c. 500 rad/s
 
+X_L = 500 rad/s * 0.5 H
+
+X_L = 250 ohm
+
+![image](https://user-images.githubusercontent.com/85144847/131637036-9cd8e5e4-2a11-46dc-9de7-3079487e9489.png)
+![image](https://user-images.githubusercontent.com/85144847/131637057-2afefbeb-b399-4e23-832a-769e6f9c2be4.png)
 
 25.- Para la figura 16-53, si
 
