@@ -557,23 +557,47 @@ Vprom = 15 v
 
 ![image](https://user-images.githubusercontent.com/85144847/131615810-b926e608-c870-4047-af6e-c1b25bfda92b.png)
 
+- Desarrollo:
+
+![image](https://user-images.githubusercontent.com/85144847/131685277-e553985e-0ded-477e-826c-cdc5f5e99f6d.png)
+
 15-9 Valores efectivos (rms)
 
 55.- Determine los valores rms para cada uno de los siguientes casos:
 
 a. Una batería de 12 V 
 
+Vef = 12*sqrt(2)
+
+Vef = 8.48 v
+
 b. -24 sen(wt + 73°) mA 
+
+Vef = -24*sqrt(2)
+
+Vef = -16.96 v
 
 c. 10 + 24 sen wt V
 
+Vef = 24*sqrt(2)
+
+Vef = 19.96 v
+
 d. 45 - 27 cos 2 wt V
+
+Vef = -27*sqrt(2)
+
+Vef = -19.08 v
 
 57.- Determine los valores de la raíz cuadrática media para 
 
 a. i = 3 + sqrt(2)(4) sen(wt + 44°) mA
 
+![image](https://user-images.githubusercontent.com/85144847/131686350-eda47c95-ca61-48f3-84c8-e037c911c734.png)
+
 b. Voltaje v de la figura 15-92 con e = 25 sen wt V
+
+![image](https://user-images.githubusercontent.com/85144847/131686421-52c45f71-decd-4f88-9d3a-477c50c730d0.png)
 
 59.- Calcule los valores rms para las formas de onda de la figura 15-92.
 
@@ -588,7 +612,7 @@ b. Voltaje v de la figura 15-92 con e = 25 sen wt V
 
 ![image](https://user-images.githubusercontent.com/85144847/131644719-7ca87d1a-8f23-46ac-b0a6-5e56b42c9bea.png)
 
-- Desarrollo con datos obtenidos en el ejercicio 2:
+- Desarrollo con datos obtenidos en el ejercicio 62:
 
 ![image](https://user-images.githubusercontent.com/85144847/131644618-575e2155-db94-48e2-b2c3-0518c6336a8b.png)
 
