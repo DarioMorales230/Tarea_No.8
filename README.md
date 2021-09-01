@@ -153,11 +153,56 @@ d. v = 20 cos 2wt
 ![image](https://user-images.githubusercontent.com/85144847/131615509-1002350e-a537-4177-9379-d459c83131d4.png)
 ![image](https://user-images.githubusercontent.com/85144847/131615525-3a772d2f-6476-4507-9d43-38e292983dec.png)
 
-51. Para el circuito de la figura 15-90, e = 25 sen wt V y un periodo de T = 120 ms.
+51.- Para el circuito de la figura 15-90, e = 25 sen wt V y un periodo de T = 120 ms.
 
+![image](https://user-images.githubusercontent.com/85144847/131615652-54a833a8-67c0-46eb-9e86-93f327b4555d.png)
 
+a. Dibuje el voltaje v(t) coloque en el eje una escala en milisegundos.
 
-25.2. CAPITULO 16
+b. Determine los voltajes pico y mínimo.
+
+c. Calcule v cuando t = 10, 20, 70 y 100 ms.
+
+d. Determine Vprom.
+
+53.- Utilice cálculo, para encontrar el valor promedio para la figura 15-91.
+
+![image](https://user-images.githubusercontent.com/85144847/131615810-b926e608-c870-4047-af6e-c1b25bfda92b.png)
+
+15-9 Valores efectivos (rms)
+
+55.- Determine los valores rms para cada uno de los siguientes casos:
+
+a. Una batería de 12 V 
+
+b. -24 sen(wt + 73°) mA 
+
+c. 10 + 24 sen wt V
+
+d. 45 - 27 cos 2 wt V
+
+57. Determine los valores de la raíz cuadrática media para 
+
+a. i = 3 + sqrt(2)(4) sen(wt + 44°) mA
+
+b. Voltaje v de la figura 15-92 con e = 25 sen wt V
+
+59. Calcule los valores rms para las formas de onda de la figura 15-92.
+
+![image](https://user-images.githubusercontent.com/85144847/131616116-d8bfa355-f825-4b46-8ce0-39785816e2b3.png)
+![image](https://user-images.githubusercontent.com/85144847/131616134-f30fe4b0-3968-4cfd-8b45-d1e364b22fbd.png)
+
+61. Determine los valores rms para la forma de onda de la figura 15-94. ¿Por qué es igual que el de una batería de 24 V?
+
+![image](https://user-images.githubusercontent.com/85144847/131616184-8f7bc71d-8a5e-4861-9650-0b55409c9044.png)
+
+63. Repita el problema 62, use cálculo para manejar la porción triangular.
+
+15-11 Medición de voltaje y corriente de ca
+
+65. Repita el problema 64 con un medidor de rms verdadero.
+
+3.2. CAPITULO 16
 
 4. VIDEO DE YOUTUBE
 
