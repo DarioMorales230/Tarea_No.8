@@ -15,6 +15,8 @@
 
 2.2. Resumen Capítulo 16:
 
+![untitled@2x (2) (2)](https://user-images.githubusercontent.com/85144847/131693611-32fd4e9d-b21b-45ff-a94f-a3c4d601cf01.png)
+
 3. EXPLICACIÓN Y RESOLUCIÓN DE LOS SIGUIENTES EJERCICIOS
 
 3.1. CAPITULO 15
