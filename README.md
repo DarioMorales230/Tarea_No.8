@@ -645,55 +645,199 @@ Su magnitud es de 24 v por tanto produce una potencia para el resistor de la bat
 
 a. 5 + j12 
 
+![image](https://user-images.githubusercontent.com/85144847/131688832-48587387-9df7-4fbb-8d63-e034baae287d.png)
+
 b. 9 - j6 
+
+![image](https://user-images.githubusercontent.com/85144847/131688906-6e129e4a-43af-46b5-8991-2a45abc4ec7c.png)
 
 c. -8 + j15
 
+![image](https://user-images.githubusercontent.com/85144847/131688944-2683c607-e63c-47a0-8f2c-f050563f0e4d.png)
+
 d. -10 - j4
+
+![image](https://user-images.githubusercontent.com/85144847/131688995-ede6f7cc-e11c-4f64-b85b-8ece411535ec.png)
 
 3.- Grafique cada uno de los siguientes valores en el plano complejo:
 
 a. 4 + j6
 
+![image](https://user-images.githubusercontent.com/85144847/131689019-085dd285-9c99-486b-94c4-5f21484494bb.png)
+
 b. j4
+
+![image](https://user-images.githubusercontent.com/85144847/131689034-2585a974-3c14-4350-b3bd-e7f164c744e9.png)
 
 c. 6 ∠-90°
 
+![image](https://user-images.githubusercontent.com/85144847/131689054-87211493-3cc9-4a61-8450-015425134cd8.png)
+
 d. 10 ∠135°
+
+![image](https://user-images.githubusercontent.com/85144847/131689081-343f3305-7b0d-4d12-9b19-37148f5bf7e9.png)
 
 5.- Exprese sus respuestas en forma rectangular.
 
 a.- (4 + j8) + (3 - j2)
 
+4 + j8 + 3 - j2
+
+7 + j6
+
 b.- (4 + j8) - (3 - j2)
+
+4 + j8 - 3 + j2
+
+1+ j10
 
 c.- (4.1 - j7.6) + 12∠20°
 
+12∠20°
+
+12(cos20° + jsin 20°)
+
+12(0.9397 + j0.342)
+
+11.3 + j4.1
+
+(4.1 - j7.6) + (11.3 + j4.1)
+
+15.4 – j3.5
+
 d.- 2.9∠25° - 7.3∠-5°
+
+(2.9∠25°)
+
+2.9(cos 25° + jsin 25°)
+
+2.9(0.90631 + j0.42262)
+
+2.6283 + j1.2256
+
+(7.3∠-5°)
+7.3(cos (-5°) + jsin(-5°))
+
+7.3(0.9962 – j0.0872)
+
+7.2723 – j0.6366
+
+(2.6283 + j1.2256) - (7.2723 – j0.6366)
+
+(2.6283 + j1.2256) -7 .2723 + j 0.6366
+
+-4.64 + j1.86
 
 e.- 9.2∠-120° - (2.6 + j4.1)
 
+(9.2∠-120°)
+
+9.2(cos(-120°) + jsin(-120°))
+
+9.2(-0.5 – j0.866)
+
+-4.6 - j8
+
+(-4.6-j8) – (2.6 + j4.1)
+
+-7.2 – j12.1
+
 ![image](https://user-images.githubusercontent.com/85144847/131627390-0718d7f9-feeb-4ab4-be66-9f3921ca6c56.png)
+
+![image](https://user-images.githubusercontent.com/85144847/131689481-22649fa3-d726-4171-913c-5f52976e500d.png)
 
 7.- Reduzca cada corriente siguiente a forma polar:
 
+- Enunciado:
+
 ![image](https://user-images.githubusercontent.com/85144847/131627700-7cb9c946-f364-40ec-b17a-cb110e1e804c.png)
+
+- Desarrollo:
+
+![image](https://user-images.githubusercontent.com/85144847/131689578-93e71d0e-800b-4e4e-a88e-1274c7bae405.png)
+![image](https://user-images.githubusercontent.com/85144847/131689613-a107a998-3245-40d4-8bab-430e356c86dd.png)
+![image](https://user-images.githubusercontent.com/85144847/131689638-583a3231-c491-4996-a775-c607c0b0e1ee.png)
+
+- Enunciado:
 
 ![image](https://user-images.githubusercontent.com/85144847/131627720-1cfd5df5-d532-4e78-9acd-5e5e5a2cd847.png)
 
+- Desarrollo:
+
+![image](https://user-images.githubusercontent.com/85144847/131690206-a9f6f96a-f2d9-43d9-9ff6-14b5d82d50ee.png)
+![image](https://user-images.githubusercontent.com/85144847/131690280-b658051e-b397-4fed-9172-b9419f87bdfd.png)
+![image](https://user-images.githubusercontent.com/85144847/131690342-62b49357-f23d-405e-b390-120f0722b002.png)
+
+- Enunciado:
+
 ![image](https://user-images.githubusercontent.com/85144847/131627761-caedc32b-29c6-4ee5-b828-6ccab9acc37e.png)
+
+- Desarrollo:
+
+![image](https://user-images.githubusercontent.com/85144847/131690467-0054b028-389d-4ece-9bfa-89695315932d.png)
+![image](https://user-images.githubusercontent.com/85144847/131690501-22f9e1c5-51da-4a7e-8076-f0e2df4156e8.png)
+![image](https://user-images.githubusercontent.com/85144847/131690634-c23b8d7c-ee4e-4148-8dc0-5113361fc0bc.png)
+![image](https://user-images.githubusercontent.com/85144847/131690685-abd50e49-13a8-4b37-9758-06527ffcd797.png)
 
 16-2 Números complejos en análisis de ca
 
 9.- Determine el equivalente sinusoidal para cada una de las fuentes transformadas de la figura 16-48.
 
+- Enunciado:
+
 ![image](https://user-images.githubusercontent.com/85144847/131628026-4f029932-03e0-4d6d-9aea-bbfed60f65ee.png)
 
+- Desarrollo:
+
+10sin(ωt +30°) V
+
+- Enunciado:
+
 ![image](https://user-images.githubusercontent.com/85144847/131628049-ab4ab450-4418-46fb-be01-d7620b664299.png)
+
+- Desarrollo:
+
+15sin(ωt -10°) V
 
 11.- Repita el problema 10 para v = e1 - e2.
 
 Nota: para el resto de los problemas y el resto del libro, los fasores se expresan como valores rms en lugar de valores pico.
+
+![image](https://user-images.githubusercontent.com/85144847/131691276-ce640239-bd72-4150-822e-b4cf50e585c5.png)
+
+- Desarrollo:
+
+![image](https://user-images.githubusercontent.com/85144847/131691760-c6586f3c-00b8-419b-ae88-95d02223757c.png)
+
+b. Determine V = E1 – E2
+
+v = 10 V<30°-15V<-20°
+
+10V (10V<30°+j sin30°)
+
+10V (0.866+j0.5)
+
+8.66V + j5V
+
+(15V<-20°)
+
+15V (cos (-20°) + j sin (-20°))
+
+15V (0.9397 – j0.342)
+
+14.0955V – j5.13V
+
+![image](https://user-images.githubusercontent.com/85144847/131692169-f9650047-cea5-4dab-b14c-8bceac959b19.png)
+
+![image](https://user-images.githubusercontent.com/85144847/131692204-a96c691f-5f8e-482a-a63b-925e05dab802.png)
+
+c. Convierta V al dominio del tiempo.
+
+v = 11.5 sin (ωt + 118.2°) V 
+
+d. Grafique e1, e2 y v de acuerdo con la figura 16-13.
+
+![image](https://user-images.githubusercontent.com/85144847/131692308-0cd4ba8c-bbf5-4ae9-9967-64e998e547aa.png)
 
 13.- Para la figura 16-50, i1 = 25 sen (wt + 36°) mA e i2 = 40 cos (wt - 10°) mA.
 
@@ -701,7 +845,32 @@ Nota: para el resto de los problemas y el resto del libro, los fasores se expres
 
 a. Determine los fasores I1, I2 e IT.
 
+I1= 25 sin (ωt +36°) mA
+
+I2 = 40 cos(ωt-10°) mA
+
+cos ωt= sin (ωt + 90°)
+
+I2 = 40*10-3 sin(ωt-10°+90°)
+
+I2 = 40 sin(ωt+80°) mA
+
+![image](https://user-images.githubusercontent.com/85144847/131692845-dfc0f563-66e9-4d91-8d53-02ea9c727a34.png)
+![image](https://user-images.githubusercontent.com/85144847/131692924-d6179ab9-e3e6-44f5-be81-13ee9ada043f.png)
+
+28.3 mA< 80°
+
+28.3 mA (cos80° + jsin80°)
+
+28.3 mA (0.1736 + j0.985)
+
+4.913mA + j27.87 mA
+
+![image](https://user-images.githubusercontent.com/85144847/131693107-eed08e7c-1a3f-4458-a826-22ac57877bcd.png)
+
 b. Determine la ecuación para iT en el dominio del tiempo.
+
+![image](https://user-images.githubusercontent.com/85144847/131693199-5f828c16-4c95-4acd-a7c4-c81870da3edb.png)7
 
 15.- Para la figura 16-18, i1 = 7 sen wt mA, i2 = 4 sen (wt - 90°) mA e i3 = 6 sen (wt + 90°) mA.
 
