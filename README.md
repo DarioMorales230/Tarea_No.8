@@ -700,17 +700,32 @@ X_L = 250 ohm
 
 a. vL = 40 sen (wt + 30°) V, iL = 364 sen (wt - 60°) mA y L = 2 mH, ¿cuál es el valor de f?
 
+![image](https://user-images.githubusercontent.com/85144847/131637445-843542ca-2a7b-4a34-a666-31d6f6a3da99.png)
+![image](https://user-images.githubusercontent.com/85144847/131637484-46d51aa1-3a87-417b-a7af-0165f532cc8e.png)
+
+![image](https://user-images.githubusercontent.com/85144847/131637654-c9451cf8-ecf3-4d73-a4a5-610aebe9ab97.png)
+
 b. iL = 250 sen (wt + 40°) uA, vL = 40 sen (wt + \theta) V, y f = 500 kHz, ¿cuál es el valor de L y \theta?
+
+![image](https://user-images.githubusercontent.com/85144847/131637727-af82e198-b96e-44b4-b1ee-170f60724962.png)
+![image](https://user-images.githubusercontent.com/85144847/131637751-7f94672a-1b97-401c-a671-2d371ee0cd31.png)
+
+![image](https://user-images.githubusercontent.com/85144847/131637806-7bf99ccf-69af-4c09-a954-7f11aa86dca4.png)
+![image](https://user-images.githubusercontent.com/85144847/131637892-13789769-fe21-40c8-b9ed-baf17257bfc3.png)
 
 27.- ¿Cuál es la reactancia de un capacitor de 5 uF a....
 
 a.- 60 Hz
 
+![image](https://user-images.githubusercontent.com/85144847/131638138-a5e27f01-2293-448f-aa11-c189313564bf.png)
 
 b.- 1000 Hz
 
+![image](https://user-images.githubusercontent.com/85144847/131638168-4d577a62-0772-44ea-a755-918b0c4d80c6.png)
 
 c.- 500 rad/s
+
+![image](https://user-images.githubusercontent.com/85144847/131638237-82b077fc-594c-4fb5-a8b5-a098500d6889.png)
 
 29.- Para la figura 16-54, C = 50 uF.
 
@@ -718,7 +733,13 @@ c.- 500 rad/s
 
 a. vC = 100 sen377t V, ¿cuánto vale iC?
 
+![image](https://user-images.githubusercontent.com/85144847/131638290-1d846597-d227-475d-ae02-0dccc58b6ca4.png)
+![image](https://user-images.githubusercontent.com/85144847/131638331-bc8afc11-6cc0-4bb2-a86f-b7682a0f0e81.png)
+
 b. iC = 10 sen(2π * 400t - 60°), ¿cuánto vale vC?
+
+![image](https://user-images.githubusercontent.com/85144847/131638397-87e92651-e580-4b28-ab44-8b7f44314a18.png)
+![image](https://user-images.githubusercontent.com/85144847/131638466-3c8be408-7649-4816-910e-95a9ac5043f0.png)
 
 16-7 El concepto de impedancia
 
